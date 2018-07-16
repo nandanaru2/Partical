@@ -1,0 +1,1 @@
+just check the paths in tha main file
